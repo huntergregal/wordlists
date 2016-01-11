@@ -1,0 +1,26 @@
+:
+ : 
+admin:
+admin:1111111
+admin:1234
+Admin:1234
+admin:12345
+admin:123456 or Admin/123456
+admin:4321
+admin:admin
+admin:admin or admin/9999 
+admin:fliradmin
+admin:jvc
+admin:meinsm
+admin:password
+none
+root:
+root:admin
+root:Admin:
+root:camera
+root:ikwd
+root:root
+root:system
+supervisor:supervisor
+root:pass
+ubnt:ubnt
